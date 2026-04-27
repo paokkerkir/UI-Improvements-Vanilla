@@ -9,7 +9,8 @@ If you want to use ShaguTweaks in conjuction with the above, [use this adapted f
 
 # Installation
 
-Download as zip, and extract all folders in WoW\Data\Interface\ 
+Download as zip, and extract all folders in WoW\Data\Interface\
+
 (Not in the addons folder)
 
 You need an 1.12 exe with removed signature protections in order to use the above.
