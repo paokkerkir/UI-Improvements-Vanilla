@@ -6,6 +6,7 @@ A collection of TWoW exported UI improvements for any Vanilla WoW 1.12 client.
 - Wider Quest Log
 - Better Cursor Arrow
 - Wider Profession Frame
+- Options and Interface options UI
 
 If you want to use ShaguTweaks in conjuction with the above, [use this adapted fork.](https://github.com/paokkerkir/ShaguTweaks), otherwise you will have map incompatibilities.
 
