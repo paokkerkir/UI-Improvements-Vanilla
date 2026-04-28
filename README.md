@@ -15,7 +15,7 @@ Download as zip, and extract all folders in WoW\Data\Interface\
 
 (Not in the addons folder)
 
-You need an 1.12 exe with removed signature protections in order to use the above.
+[You need an 1.12 exe with removed signature protections in order to use the above.](https://github.com/paokkerkir/vanilla-autologin#powershell-script-that-patches-wow-112-exe-to-allow-glues-patches)
 
 # Screenshots (dark mode from shagutweaks - not mandatory)
 
